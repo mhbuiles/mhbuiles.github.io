@@ -1,0 +1,41 @@
+h1{
+  width: 400px;
+  height: 50px;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: 'Galada' , cursive;
+}
+h3{
+  width: 300px;
+  height: 30px;
+  color : white;
+  font-size: 25px;
+  font-family: 'Galada' , cursive;
+  position: relative;
+  left: 30px;
+}
+.background{
+  width : 1350px;
+  height : 600px;
+  background-image: url('https://images.pexels.com/photos/1173576/pexels-photo-1173576.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.info{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  position: fixed;
+  top: 100px;
+  left: 580px;
+}
+.foto{
+  width: 200px;
+  height: 200px;
+  border-radius: 150px;
+  border: 5px solid white;
+  position: relative;
+  left: 30px;
+}
